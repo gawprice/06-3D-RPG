@@ -10,7 +10,7 @@
 [ext_resource path="res://UI/Dialogue.gd" type="Script" id=8]
 [ext_resource path="res://UI/UI.gd" type="Script" id=9]
 [ext_resource path="res://Drone/Drone.tscn" type="PackedScene" id=10]
-[ext_resource path="res://Assets/Common Fight.ogg" type="AudioStream" id=11]
+[ext_resource path="res://Assets/Never Surrender.ogg" type="AudioStream" id=11]
 
 [sub_resource type="SphereMesh" id=1]
 radius = 0.5
